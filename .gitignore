@@ -1,0 +1,10 @@
+# Ignore Maven target directory
+/target
+
+# IDE files
+*.iml
+.idea
+
+# Build output from Gradle (legacy)
+.gradle
+/build
